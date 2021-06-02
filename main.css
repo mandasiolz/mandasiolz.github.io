@@ -1386,29 +1386,13 @@
   background-color: var(--background-secondary-alt);
 }
 
-:root .app-1q1i1E::before, :root .app-1q1i1E::after, :root .app-2rEoOp::after, :root .app-2rEoOp::before, :root .layers-3iHuyZ::before, :root .layers-3iHuyZ::after, :root .app-1q1i1E::before, :root .bg-h5JY_x::after {
+:root .app-2rEoOp::after, :root .app-2rEoOp::before, :root .layers-3iHuyZ::before, :root .layers-3iHuyZ::after, :root .app-1q1i1E::before, :root .bg-h5JY_x::after {
   content: "";
   position: fixed;
   z-index: 1;
   pointer-events: none;
 }
-/*:root .app-1q1i1E::before {
-  left: 0;
-  top: 0;
-  width: 250px;
-  height: 250px;
-  background: url("https://i.imgur.com/jTpFJuI.png") no-repeat;
-  background-size: 100%;
-}
-:root .app-1q1i1E::after {
-  z-index: 0;
-  left: 50px;
-  bottom: 0;
-  width: 490px;
-  height: 40px;
-  background: url("https://i.imgur.com/KQQWcTY.png") no-repeat;
-  background-size: 100%;
-}*/
+
 :root .app-2rEoOp::before { /*image on top of profile corner on right*/
   top: 80px;
   right: 116px;
