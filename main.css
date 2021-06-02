@@ -1731,7 +1731,7 @@
     z-index: -1;
     width: 300px;
     border-radius: var(--border-radius);
-    background: url("file:///C:/Users/HP/Pictures/for%20discord/01.gif") bottom/40% no-repeat; /*gif at the bottom of profile screen*/
+    background: url("https://i.pinimg.com/originals/c9/a9/fa/c9a9fa3a1fd58f70df1a05ade71ae6fe.gif") bottom/40% no-repeat; /*gif at the bottom of profile screen*/
   }
 
   .guilds-1SWlCJ + :nth-child(2) {
