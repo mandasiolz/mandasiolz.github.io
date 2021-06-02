@@ -1392,7 +1392,7 @@
   z-index: 1;
   pointer-events: none;
 }
-:root .app-1q1i1E::before {
+/*:root .app-1q1i1E::before {
   left: 0;
   top: 0;
   width: 250px;
@@ -1408,13 +1408,13 @@
   height: 40px;
   background: url("https://i.imgur.com/KQQWcTY.png") no-repeat;
   background-size: 100%;
-}
+}*/
 :root .app-2rEoOp::before { /*image on top of profile corner on right*/
   top: 80px;
   right: 116px;
   width: 200px;
   height: 120px;
-  background: url("https://i.imgur.com/0nsnP69.png") no-repeat;
+  background: url("https://i.pinimg.com/originals/fa/24/46/fa2446ca9a6a1a47fc5c21088725d996.gif") no-repeat;
   background-size: 100%;
 }
 :root .app-2rEoOp::after {
